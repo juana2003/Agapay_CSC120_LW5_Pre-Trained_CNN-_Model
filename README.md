@@ -82,7 +82,7 @@ Use ensemble methods
 Increase dataset size
 Apply regularization techniques
 
-**G. Real-World Application**
+G. Real-World Application
 
 16. How can your model be applied in real-world scenarios?
 It can be used in agriculture, plant classification, environmental monitoring, product recognition, and quality control systems.
