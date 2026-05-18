@@ -20,7 +20,7 @@ PART 13: GitHub Submission
 A. Model Performance
 
 1. Which pre-trained model achieved the highest accuracy? Why?
-(To be filled after code execution) The model with the highest validation accuracy is MobileNetV2 with 0.7616.
+(To be filled after code execution) The model with the highest validation accuracy is MobileNetV2 with 0.7610.
 The why usually depends on the architecture's ability to extract relevant features for the given dataset. MobileNetV2 performs well because it is efficient, lightweight, and still powerful enough to capture important image features without overfitting or being too complex for the dataset.
 
 2. Which model had the lowest performance? What could be the reason?
